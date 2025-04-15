@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Berke from Turkey<br><br>- 🏢I'm currently working on a FiveM server called HorizonV.<br>- ⚡ In my free time i like listening to songs</p>
+<p align="left">I'm Berke from Turkey<br><br>- 🏢I'm currently working on a FiveM server called EleganceRP.<br>- ⚡ In my free time i like listening to songs</p>
 
 ###
 
